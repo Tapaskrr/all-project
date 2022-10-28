@@ -1,0 +1,30 @@
+package com.te.employeemanagesystem.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.te.employeemanagesystem.dao.MyDao;
+import com.te.employeemanagesystem.entity.Employee;
+
+@Service
+public class MyServiceImpl implements MyService {
+	@Autowired
+	private MyDao myDao;
+
+	@Override
+	public Boolean create(Employee employee) {
+		if(employee.getEmpId().startsWith("tys")) {
+			return myDao.create(employee);
+		}
+		return false;
+		
+		
+		
+	}
+
+	@Override
+	public Employee authenticate(Employee employee) {
+		return null;
+	}
+
+}

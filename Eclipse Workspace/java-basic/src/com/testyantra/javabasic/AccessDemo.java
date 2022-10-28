@@ -1,0 +1,24 @@
+package com.testyantra.javabasic;
+
+public class AccessDemo {
+
+	public static void main(String[] args) {
+		try {
+			AccessSpecifierDemo.protectedMethod();
+		} catch (Exception e) {
+			System.out.println("can't access");
+		}
+
+//		try {
+//			AccessSpecifierDemo.privateMethod();
+//		}
+//		catch(Exception e){
+//				System.out.println("can't access");
+//		}
+		
+		AccessSpecifierDemo accessSpecifierDemo=new AccessSpecifierDemo();
+		accessSpecifierDemo.nonStaticPrivateMethod();
+
+	}
+
+}

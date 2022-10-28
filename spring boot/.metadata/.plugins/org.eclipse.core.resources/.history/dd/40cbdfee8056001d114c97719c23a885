@@ -1,0 +1,5 @@
+package com.te.tablemapping.entity;
+
+public class SecondaryInfo {
+
+}

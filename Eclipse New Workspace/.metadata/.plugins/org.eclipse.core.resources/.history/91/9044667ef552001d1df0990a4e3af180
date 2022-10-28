@@ -1,0 +1,5 @@
+package com.te.checkcheck.services;
+
+public Interface MyServices {
+
+}

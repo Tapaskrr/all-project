@@ -1,0 +1,35 @@
+package com.te.checkcheck.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.te.checkcheck.entity.MyEntity;
+
+@Controller
+public class MyController {
+
+	@GetMapping("/login")
+	public String myLogin() {
+		return "login";
+	}
+	
+	@GetMapping("/register")
+	public String myRegister() {
+		return "register";
+	}
+	
+	@PostMapping("/loginPage")
+	public String submitLogin() {
+		return "loginResponse";
+	}
+	
+	@PostMapping("/a/registerPage")
+	public String submitRegister(MyEntity myEntity,Model map) {
+		if(myEntity!=null && myEntity.getEmpId().length()!=0)
+			map.addAttribute("errmsg","plz fill all fields");
+		
+		return "registrationResponse";
+	}
+}

@@ -1,0 +1,11 @@
+
+D
+java:S2097"Add a type test to this method.(ÜÑãHûRMINORZBUG
+„
+java:S1602#"SRemove useless curly braces around statement and then remove useless return keyword(·Çñ“øÿÿÿÿHöRMINORZ
+CODE_SMELL
+m
+java:S2259"HA "NullPointerException" could be thrown; "objStudent" is nullable here.(³ï„H÷RMAJORZBUG
+g
+java:S1611#"6Remove the parentheses around the "student1" parameter(·Çñ“øÿÿÿÿHüRMINORZ
+CODE_SMELL

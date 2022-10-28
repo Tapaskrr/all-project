@@ -1,0 +1,10 @@
+package com.te.employeemanagementsystem.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.te.employeemanagementsystem.entity.Employee;
+
+public interface EmployeeDao extends CrudRepository<Employee, String>{
+
+	public Employee findByEmpId(String empId);
+}

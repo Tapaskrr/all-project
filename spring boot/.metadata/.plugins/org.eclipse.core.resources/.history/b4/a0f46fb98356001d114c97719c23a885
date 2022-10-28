@@ -1,0 +1,5 @@
+package com.te.tablemapping.services;
+
+public interface EmployeeServices {
+
+}

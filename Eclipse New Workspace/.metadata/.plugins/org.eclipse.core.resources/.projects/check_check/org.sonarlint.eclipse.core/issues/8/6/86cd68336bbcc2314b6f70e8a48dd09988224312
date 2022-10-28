@@ -1,0 +1,13 @@
+
+r
+java:S22596"FA "NullPointerException" could be thrown; "myEntity" is nullable here.(ğà‘8éƒïÅÀ0H‹9RMAJORZBUG
+v
+java:S1192""GDefine a constant instead of duplicating this literal "errmsg" 4 times.(’˜‰ˆH£9RCRITICALZ
+CODE_SMELL
+r
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(…Ç˜ÅHŠ9RCRITICALZVULNERABILITY
+V
+java:S5411:"*Use the primitive boolean expression here.(Ÿå°´H9RMINORZ
+CODE_SMELL
+w
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(íØ—±ÿÿÿÿÿH–9RCRITICALZVULNERABILITY

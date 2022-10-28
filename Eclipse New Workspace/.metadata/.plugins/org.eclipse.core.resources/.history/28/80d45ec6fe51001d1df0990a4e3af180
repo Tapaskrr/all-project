@@ -1,0 +1,64 @@
+package com.te.springempmanagesystem.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.te.springempmanagesystem.entity.Employee;
+import com.te.springempmanagesystem.service.MyService;
+import com.te.springempmanagesystem.service.MyServiceImplement;
+
+@Controller
+public class MyController {
+
+	@Autowired
+	private MyServiceImplement myservice;
+
+	@GetMapping("/register")
+	public String register() {
+
+		return "registration";
+	}
+
+	@GetMapping("/login")
+	public String login() {
+		return "login";
+	}
+
+	@PostMapping("/dataregister")
+	public String dataRegister(Model map,Employee emp) {
+		
+		if(emp!=null) {
+			if( myservice.srviceMethod(emp)) {
+				map.addAttribute("msg","registration success");
+			}
+			else {
+				map.addAttribute("errmsg","registration failed");
+			}
+		}
+		else {
+			map.addAttribute("errmsg","registration failed");
+		}
+		return "registration";
+		
+	}
+	
+	@PostMapping("/datalogin")
+	public String datalogin(Model map,Employee emp) {
+		if(emp!=null) {
+			if( myservice.srviceCheckMethod(emp)!=null) {
+				map.addAttribute("msg","login success");
+			}
+			else {
+				map.addAttribute("errmsg","login failed");
+			}
+		}
+		else {
+			map.addAttribute("errmsg","plz type something");
+		}
+		return "login";
+	}
+	
+}

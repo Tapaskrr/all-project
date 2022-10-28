@@ -1,0 +1,6 @@
+package com.te.checkcheck.services;
+
+public interface MyServices {
+
+		public Boolean myServices();
+}

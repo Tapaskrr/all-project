@@ -1,0 +1,97 @@
+#h1{
+    margin-left: 250px;
+    font-size: 50px;
+    
+}
+.h2{
+    margin-left: 500px;
+    
+}
+#h2{
+    text-align: center;
+    /* border: 1px solid black; */
+    margin-top: 250px;
+    
+    width:300px;
+}
+#freeweb{
+    
+    border: 10px solid black;
+    width:700px;
+    margin-left: 350px;
+    margin-top: -250px;
+    height: 250px;
+}
+#free{
+    /* text-align: center; */
+    margin-left: -400px;
+    font-size: 50px;
+    /* border: 1px solid black; */
+    width:600px;
+}
+a{
+    color: blue;
+}
+h3{
+    /* border: 1px solid black; */
+    font-size: 50px;
+}
+#h3-1{
+    margin-left:300px;
+    margin-top: -230px;
+}
+#h3-2{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+#h3-3{
+    margin-left: 480px;
+    margin-top: -50px;
+}
+nav{
+    width:1100px;
+    border: 3px solid black;
+    height: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-left: 200px;
+}
+.top{
+    font-size: 30px;
+    margin-left: 100px;
+}
+#image{
+    height: 40px;
+}
+span{
+    position: relative;
+    top: -5px;
+    font-size: 50px;
+}
+header{
+    text-align: center;
+    width:1100px;
+    border: 3px solid black;
+    margin-left: 200px;
+}
+main{
+    width:1100px;
+    margin-left: 200px;
+    border: 3px solid black;
+}
+header{
+    background-color: rgb(67, 67, 238);
+}
+h6{
+    margin-top: 0px;
+    margin-left: 200px;
+    width:1106px;
+    background-color: rgb(28, 28, 160);
+    height: 35px;
+    color: aliceblue;
+    font-size: 20px;
+}
+main{
+    overflow: auto;
+    height: 600px;
+}

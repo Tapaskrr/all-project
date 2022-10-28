@@ -1,0 +1,5 @@
+package com.te.employeemanagesystem.services;
+
+public interface MyService {
+
+}

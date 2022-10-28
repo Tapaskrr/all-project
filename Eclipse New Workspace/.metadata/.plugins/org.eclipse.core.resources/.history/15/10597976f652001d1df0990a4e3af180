@@ -1,0 +1,10 @@
+package com.te.checkcheck.dao;
+
+public class MySubDao implements MyDao {
+
+	@Override
+	public Boolean myDao() {
+		return null;
+	}
+
+}

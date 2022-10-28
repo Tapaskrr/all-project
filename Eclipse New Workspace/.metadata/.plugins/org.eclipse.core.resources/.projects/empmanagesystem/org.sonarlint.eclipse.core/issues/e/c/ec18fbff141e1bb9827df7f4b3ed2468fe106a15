@@ -1,0 +1,15 @@
+
+`
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæHHšRMINORZ
+CODE_SMELL
+b
+java:S1128"7Remove this unused import 'javax.annotation.Generated'.(­¦êQH˜RMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚HœRMINORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(í¥üˆúÿÿÿÿH—RMINORZ
+CODE_SMELL
+i
+java:S1128	"=Remove this unused import 'javax.persistence.GenerationType'.(ý÷õ¡HžRMINORZ
+CODE_SMELL

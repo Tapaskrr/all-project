@@ -1,0 +1,11 @@
+
+]
+java:S54111"*Use the primitive boolean expression here.(Ÿå°´8ñ×Û°À0Hó7RMINORZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¹óåŸøÿÿÿÿ8£±¯À0HÈ7RCRITICALZVULNERABILITY
+y
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(…Ç˜Å8¹ÙÅÀ0Hª8RCRITICALZVULNERABILITY
+}
+java:S1192"GDefine a constant instead of duplicating this literal "errmsg" 4 times.(’˜‰ˆ8¹ÙÅÀ0H¥8RCRITICALZ
+CODE_SMELL

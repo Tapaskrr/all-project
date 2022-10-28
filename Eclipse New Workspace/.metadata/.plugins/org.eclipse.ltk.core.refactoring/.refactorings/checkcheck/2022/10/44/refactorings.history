@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;checkcheck&apos;&#x0D;&#x0A;- Original project: &apos;checkcheck&apos;&#x0D;&#x0A;- Original element: &apos;checkcheck/src/main/java/com.te.checkcheck.services.dao&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.te.checkcheck.services.dao" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.te.checkcheck.services" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1666544873358" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+package com.te.tablemapping.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.te.tablemapping.dao.EmployeeDao;
+import com.te.tablemapping.entity.Employee;
+
+@Service
+public class EmployeeServiceImpl implements EmployeeServices {
+
+	@Autowired
+	private EmployeeDao dao;
+	@Override
+	public Employee register(Employee employee) {
+		return dao.save(employee);
+	}
+	@Override
+	public Boolean setEmployee(Employee employee) {
+		Employee save = dao.save(employee);
+		
+		return null;
+	}
+
+}

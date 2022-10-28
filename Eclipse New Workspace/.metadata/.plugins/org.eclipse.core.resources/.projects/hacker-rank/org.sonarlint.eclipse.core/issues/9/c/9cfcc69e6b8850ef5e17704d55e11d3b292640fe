@@ -1,0 +1,31 @@
+
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8¼¶§¢¾0HÚRMAJORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(»¹ú”8º îÞ½0HéRMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8‹×‹¢¾0H´RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Å„“Ì8Ï»â¡¾0HêRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(·¹ñØ8Å½Á¡¾0HïRMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(¹Óú 8º îÞ½0HèRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ËÀ·Ïÿÿÿÿÿ8¬µ¢¢¾0HÍRMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8úêÔ¡¾0HÃRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8úÉ›¡¾0H™RMAJORZ
+CODE_SMELL
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(óöõøÿÿÿÿ8¨Õº¡¾0HÂRMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(êûéŸ8î¼¡¾0HÖRMAJORZ
+CODE_SMELL
+Š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯8‘Ë‰¢¾0H§RMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8úêÔ¡¾0HÁRMINORZ
+CODE_SMELL

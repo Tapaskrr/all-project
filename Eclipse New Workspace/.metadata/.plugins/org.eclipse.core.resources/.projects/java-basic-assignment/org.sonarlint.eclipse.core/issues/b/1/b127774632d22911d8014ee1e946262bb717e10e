@@ -1,0 +1,38 @@
+
+[
+java:S3740"/Provide the parametrized type for this generic.(¦«ŸÄHRMAJORZ
+CODE_SMELL
+`
+java:S3740M"/Provide the parametrized type for this generic.(¤ñ±«øÿÿÿÿHRMAJORZ
+CODE_SMELL
+M
+java:S1643;"Use a StringBuilder instead.(ÚÀü’úÿÿÿÿHRMINORZ
+CODE_SMELL
+M
+java:S1643="Use a StringBuilder instead.(ÚÀü’úÿÿÿÿH‘RMINORZ
+CODE_SMELL
+H
+java:S1643?"Use a StringBuilder instead.(ˆ¯£¾H’RMINORZ
+CODE_SMELL
+Š
+java:S3012""YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ËÀùùÿÿÿÿH“RMINORZ
+CODE_SMELL
+g	java:S125$"<This block of commented-out lines of code should be removed.(¾ÊêáH”RMAJORZ
+CODE_SMELL
+b
+java:S11355"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH•RINFOZ
+CODE_SMELL
+b
+java:S1135I"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH–RINFOZ
+CODE_SMELL
+Y
+java:S1125T"(Remove the unnecessary boolean literals.(ç€Í»ùÿÿÿÿH—RMINORZ
+CODE_SMELL
+x
+java:S2272Y"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿHšRMINORZBUG
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿH›RMINORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿHRMINORZ
+CODE_SMELL

@@ -1,0 +1,55 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+
+
+<%
+String msg = (String) request.getAttribute("msg");
+%>
+<%
+String errmsg = (String) request.getAttribute("errmsg");
+%>
+
+<%
+if (msg != null) {
+%>
+<%=msg%>
+<%
+}
+%>
+
+<%
+if (errmsg != null) {
+%>
+<%=errmsg%>
+<%
+}
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<fieldset>
+		<legend>create your account</legend>
+		<form action="/datalogin" method="post">
+			<table>
+				<tr>
+					<td>enter your name:</td>
+					<td><input type="text" name="empName">
+				</tr>
+
+				<tr>
+					<td>enter your password</td>
+					<td><input type="text" name="empPwd">
+				</tr>
+			</table>
+			<br> <input type="submit" value="submitform">
+		</form>
+	</fieldset>
+	<h3>
+		create account, please<a href="./register"> register</a>
+	</h3>
+</body>
+</html>

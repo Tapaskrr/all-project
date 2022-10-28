@@ -1,0 +1,17 @@
+
+s
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(Ö…æ”8û’ëĞ½0HŒRMINORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ö…æ”8Æ©×Ğ½0H‰RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(¦”¨€øÿÿÿÿ8Æ©×Ğ½0HˆRMAJORZ
+CODE_SMELL
+m
+java:S1118":Add a private constructor to hide the implicit public one.(··8ĞƒÇĞ½0HşRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÔØÆØ½0H£RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+package com.te.tablemapping.services;
+
+import com.te.tablemapping.entity.Employee;
+
+public interface EmployeeServices {
+	public Employee register(Employee employee);
+	
+	public Boolean setEmployee(Employee employee);
+	
+}

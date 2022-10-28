@@ -1,0 +1,5 @@
+package com.te.restfull.controller;
+
+public class ExceptionController {
+
+}

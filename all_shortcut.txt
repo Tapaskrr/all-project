@@ -1,0 +1,53 @@
+alt+ shift + s - getter,setter , constructor
+
+ctl+shift+s- save all
+
+ctrl+one - create variable
+
+ctl+shift+L - all shortcut
+
+alt+L+O - to run html/css in vscode 
+
+http://127.0.0.1/
+
+
+plz delete----
+C:\Users\tapas paul\eclipse\java-2022-06\eclipse
+
+
+CTL+SHIFT+S
+
+F3-check method
+
+ctrl+alt+down
+
+alt+down
+
+
+ctrl + shif + p - find another bracket
+
+
+
+ctrl - m
+
+
+harish.s@testyantra.com
+
+org.apache.maven
+
+zero(0) in eclipse for thick cursor
+
+
+database in hybernate---
+check library if wrong change it ,change pom.xml and click on project and do alt+f5
+
+
+ctl+shift+c  -----   comment on xml file
+
+http://localhost:8080/springmvc/
+
+ctrl+shift+o---- to import particular one if something else is written
+
+
+
+

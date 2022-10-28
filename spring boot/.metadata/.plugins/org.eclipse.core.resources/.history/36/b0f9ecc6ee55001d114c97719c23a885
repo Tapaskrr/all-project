@@ -1,0 +1,19 @@
+package com.te.employeemanagementsystem.dao;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+
+import com.te.employeemanagementsystem.entity.Employee;
+
+public interface EmployeeDao extends CrudRepository<Employee, String>{
+
+	public Employee findByEmpId(String empId);
+	
+	@Query("from Employee")
+	public List<Employee> getAllEmployees();
+	
+	@Query("delete from Employee where empName='tapas'")
+	public Boolean deletedata();
+}

@@ -1,0 +1,68 @@
+
+d	java:S106N"9Replace this use of System.out or System.err by a logger.(Ü‚ä¶H©RMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(ŸòºÿÿÿÿÿH€RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ìƒ¾üÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+d	java:S106W"9Replace this use of System.out or System.err by a logger.(¬ÃÊ­H¬RMAJORZ
+CODE_SMELL
+d	java:S106^"9Replace this use of System.out or System.err by a logger.(ÍÓ†H­RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(äØìÇHŸRMAJORZ
+CODE_SMELL
+c
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿH°RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(òñ³ĞHRMAJORZ
+CODE_SMELL
+[
+java:S37401"/Provide the parametrized type for this generic.(ø—§‘HƒRMAJORZ
+CODE_SMELL
+‰	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿH†RMINORZ
+CODE_SMELL
+`
+java:S37408"/Provide the parametrized type for this generic.(Ö‘ÂÜûÿÿÿÿH„RMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH®RMINORZ
+CODE_SMELL
+`
+java:S3740?"/Provide the parametrized type for this generic.(‡ÄÌúüÿÿÿÿH…RMAJORZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(ØŸ¦H£RMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(¼Ô’èH¢RMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+`
+java:S3740*"/Provide the parametrized type for this generic.(Öã×–üÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+d	java:S106:"9Replace this use of System.out or System.err by a logger.(˜Œ¦ÅH¦RMAJORZ
+CODE_SMELL
+d	java:S106A"9Replace this use of System.out or System.err by a logger.(Æ·‹H§RMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(ŸòºÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106F"9Replace this use of System.out or System.err by a logger.(Ÿ­•ìûÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+d	java:S106V"9Replace this use of System.out or System.err by a logger.(Ü‚ä¶H«RMAJORZ
+CODE_SMELL
+G
+java:S3626T"Remove this redundant jump.(ÉŠ©ƒHœRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(´£ïçH RMAJORZ
+CODE_SMELL
+d	java:S106O"9Replace this use of System.out or System.err by a logger.(¬ÃÊ­HªRMAJORZ
+CODE_SMELL
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘HRCRITICALZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(İ¦ÎÀH¥RMAJORZ
+CODE_SMELL
+G
+java:S3626\"Remove this redundant jump.(ÉŠ©ƒHRMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package com.te.restfull.services;
+
+public interface MyService {
+
+}

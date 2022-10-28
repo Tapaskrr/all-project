@@ -1,0 +1,7 @@
+
+r
+java:S1128"@Remove this unused import 'org.hibernate.annotations.ManyToAny'.(äÄè,8“ï‚¿0Hö;RMINORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ8ÄÿÂ‰¿0Hô;RMINORZ
+CODE_SMELL

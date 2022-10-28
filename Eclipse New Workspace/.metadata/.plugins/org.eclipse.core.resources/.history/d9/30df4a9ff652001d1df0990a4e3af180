@@ -1,0 +1,9 @@
+package com.te.checkcheck.dao;
+
+import org.omg.CORBA.PUBLIC_MEMBER;
+
+public interface MyDao {
+	
+	public Boolean myDao(MyEntity myEntity);
+
+}

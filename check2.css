@@ -1,0 +1,71 @@
+h2:hover{
+    background-color: goldenrod;
+}
+.image{
+    height:250px;
+    border-radius: 50%;
+}
+#imagediv{
+    margin-left: 400px;
+}
+h1{
+    border: 1px solid black;
+    width:100px;
+    margin-left: 710px;
+    margin-top: -80px;
+    text-align: center;
+    background-color: goldenrod;
+}
+nav{
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: yellowgreen;
+    position: sticky;
+    top:0px;
+
+}
+.links{
+    /* border :1px solid black; */
+    
+    margin-left: 200px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+h2{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:150px;
+    margin-left: 650px;
+    background-color: yellow;
+    text-align: center;
+}
+.paragraph{
+border: 1px solid black;
+margin-left: 500px;
+margin-top: -230px;
+background-color: aqua;
+}
+#changepara{
+    border: 1px solid black;
+    width:600px;
+    background-color: aqua;
+}
+#changeimg{
+    margin-left: 900px;
+    margin-top: -800px;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2022/09/07/21/23/ferris-wheel-7439636_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background-color: aqua;
+}
+h3{
+    background: radial-gradient(ellipse,orange,white,green);
+    width:100px;
+    
+}

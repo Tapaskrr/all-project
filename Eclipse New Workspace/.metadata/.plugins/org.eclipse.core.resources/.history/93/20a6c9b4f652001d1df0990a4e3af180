@@ -1,0 +1,10 @@
+package com.te.checkcheck.services;
+
+public class MySubServices implements MyServices {
+
+	@Override
+	public Boolean myServices() {
+		return null;
+	}
+
+}

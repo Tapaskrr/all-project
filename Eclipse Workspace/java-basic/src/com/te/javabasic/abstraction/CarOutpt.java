@@ -1,0 +1,11 @@
+package com.te.javabasic.abstraction;
+
+public class CarOutpt {
+	static void display(Car car) {
+		System.out.println(car.brake());
+		System.out.println(car.accelaration());
+		System.out.println(car.gear());
+		car.gps();
+//		System.out.println("ddd");
+	}
+}

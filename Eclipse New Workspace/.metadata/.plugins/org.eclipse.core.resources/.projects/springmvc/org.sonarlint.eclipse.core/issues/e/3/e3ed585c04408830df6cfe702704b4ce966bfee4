@@ -1,0 +1,13 @@
+
+v
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ŠÞÌËH¶1RMINORZ
+CODE_SMELL
+–
+java:S4144*"jUpdate this method so that its implementation is not identical to "secondWayofGettingFormData" on line 33.(ØÙ¿ÍH´1RMAJORZ
+CODE_SMELL
+}
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ŠÞÌË8ÔÂìÆ¿0H±2RMINORZ
+CODE_SMELL
+|
+java:S1192"HDefine a constant instead of duplicating this literal "welcome" 4 times.(¾ºê øÿÿÿÿH¯1RCRITICALZ
+CODE_SMELL

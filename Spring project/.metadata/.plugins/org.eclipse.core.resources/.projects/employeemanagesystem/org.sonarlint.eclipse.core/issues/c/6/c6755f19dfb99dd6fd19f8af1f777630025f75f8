@@ -1,0 +1,58 @@
+
+y
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(÷ºá›8úï¾’Á0HÅRCRITICALZVULNERABILITY
+s
+java:S1128";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8”ó“™Á0HÚRMINORZ
+CODE_SMELL
+~
+java:S4684q"@Replace this persistent entity with a simple POJO or DTO object.(‰„Ôüÿÿÿÿ8Íê­öÀ0HRCRITICALZVULNERABILITY
+z
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¤Èƒ¨8âçêøÀ0H·RCRITICALZVULNERABILITY
+
+java:S1192Y"FDefine a constant instead of duplicating this literal "empId" 3 times.(íÚ¢’ùÿÿÿÿ8úï¾’Á0HÁRCRITICALZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "login" 8 times.(Íı‡Ç8°†é÷À0HÆRCRITICALZ
+CODE_SMELL
+‹
+java:S11924"UDefine a constant instead of duplicating this literal "something went wrong" 3 times.(‚±½£8Ä×òùÀ0H©RCRITICALZ
+CODE_SMELL
+
+java:S11929"SDefine a constant instead of duplicating this literal "plz type something" 3 times.(ø¶¨¤øÿÿÿÿ8Ä×òùÀ0H¥RCRITICALZ
+CODE_SMELL
+o
+java:S2441.">Make "Employee" serializable or don't store it in the session.(ÌªÄ…úÿÿÿÿ8Øè”ùÀ0HÚRMAJORZBUG
+^
+java:S5411"*Use the primitive boolean expression here.(¦ëöÑ8ëäê™Á0H¥RMINORZ
+CODE_SMELL
+y
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(ıÂõÏ8£âÊùÀ0HşRCRITICALZVULNERABILITY
+b
+java:S5411D"*Use the primitive boolean expression here.(ØÛÿúÿÿÿÿ8¼Ø¾÷À0HîRMINORZ
+CODE_SMELL
+z
+java:S4684„"@Replace this persistent entity with a simple POJO or DTO object.(®ùè¯8ßïùÀ0HRCRITICALZVULNERABILITY
+}
+java:S11924"GDefine a constant instead of duplicating this literal "errmsg" 7 times.(‚±½£8¼Ø¾÷À0HåRCRITICALZ
+CODE_SMELL
+q
+java:S2259*"FA "NullPointerException" could be thrown; "employee" is nullable here.(ô¯Æ8Ìì¬÷À0HÎRMAJORZBUG
+r
+java:S2259B"FA "NullPointerException" could be thrown; "employee" is nullable here.(°Ù²µ8¼Ø¾÷À0HñRMAJORZBUG
+~
+java:S4684X"@Replace this persistent entity with a simple POJO or DTO object.(Ğí¯øÿÿÿÿ8ã¨Ş’Á0H÷RCRITICALZVULNERABILITY
+y
+java:S4684p"@Replace this persistent entity with a simple POJO or DTO object.(¬§™´8ßïùÀ0H‘RCRITICALZVULNERABILITY
+k	java:S106s"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÿ®ÄúÀ0H—RMAJORZ
+CODE_SMELL
+]
+java:S5411w"*Use the primitive boolean expression here.(²—ô8ø±´’Á0HRMINORZ
+CODE_SMELL
+s	java:S125/"<This block of commented-out lines of code should be removed.(ŞøíËúÿÿÿÿ8¯³à™Á0HÿRMAJORZ
+CODE_SMELL
+~
+java:S4684b"@Replace this persistent entity with a simple POJO or DTO object.(°œñ€ÿÿÿÿÿ8Íê­öÀ0HœRCRITICALZVULNERABILITY
+k	java:S106t"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8óÙÈúÀ0HµRMAJORZ
+CODE_SMELL
+r
+java:S2259v"FA "NullPointerException" could be thrown; "employee" is nullable here.(ïˆÑÎ8ÍšÏúÀ0HÑRMAJORZBUG

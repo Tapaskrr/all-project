@@ -1,0 +1,5 @@
+package com.te.employeemanagesystem.dao;
+
+public interface MyDao {
+
+}

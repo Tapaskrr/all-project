@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    /* list-style-position:  */
+}
+.circle{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    background-color: aquamarine;
+    color: red;
+}
+#biryani{
+    list-style-type: upper-alpha;
+}
+#tea{
+    list-style-type: lower-roman;
+}
+.square{
+    border: 1px solid;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(184, 138, 20);
+    color: rgb(96, 50, 148);
+}

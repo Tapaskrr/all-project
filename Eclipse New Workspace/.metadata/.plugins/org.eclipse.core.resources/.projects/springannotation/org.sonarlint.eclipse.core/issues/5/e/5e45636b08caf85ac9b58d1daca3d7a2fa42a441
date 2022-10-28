@@ -1,0 +1,12 @@
+
+d
+java:S1128"1Remove this unused import 'javax.naming.Context'.(¯‘—³8ßÅ‡¢¿0H¹,RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¦û–ÿÿÿÿÿ8õƒ ¢¿0HÓ,RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(™Û¶8õƒ ¢¿0HÔ,RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(å‘Ÿ8õƒ ¢¿0HÕ,RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8õƒ ¢¿0HÒ,RMAJORZ
+CODE_SMELL

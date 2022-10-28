@@ -1,0 +1,9 @@
+jsonmanagedreference --- primary
+
+
+jsonbackreference --  secondry
+
+
+swagger 
+
+spring boot dev tools

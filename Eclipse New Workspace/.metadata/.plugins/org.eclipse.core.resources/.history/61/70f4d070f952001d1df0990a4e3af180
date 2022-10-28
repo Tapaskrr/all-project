@@ -1,0 +1,32 @@
+package com.te.checkcheck.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+@Controller
+public class MyController {
+
+	@GetMapping("/login")
+	public String myLogin() {
+		return "login";
+	}
+	
+	@GetMapping("/register")
+	public String myRegister() {
+		return "register";
+	}
+	
+	@PostMapping("/loginPage")
+	public String submitLogin() {
+		return "loginResponse";
+	}
+	
+	@PostMapping("/a/registerPage")
+	public String submitRegister() {
+		
+		
+		
+		return "registrationResponse";
+	}
+}

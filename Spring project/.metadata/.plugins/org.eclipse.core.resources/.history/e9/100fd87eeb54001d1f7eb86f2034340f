@@ -1,0 +1,9 @@
+package com.te.employeemanagesystem.exception;
+
+public class MyException extends RuntimeException {
+	private String msg; 
+	public MyException(String msg) {
+		super(msg);
+	}
+
+}

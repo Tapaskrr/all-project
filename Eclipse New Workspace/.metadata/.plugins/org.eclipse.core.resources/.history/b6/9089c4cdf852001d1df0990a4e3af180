@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<fieldset>
+<legend>Login</legend>
+
+<form action="./registerPage" method="post">
+
+<h5>enter employee Id : <input type="text" name="userId"></h5>
+<h5>enter employee name : <input type="text" name="userName"></h5>
+<h5>enter email Id: <input type="text" name="userEmailId"></h5>
+<h5>enter password : <input type="text" name="userPwdId"></h5>
+<h5><input type="submit" name="userSubmit"></h5>
+
+
+
+
+</form>
+
+
+
+</fieldset>
+</body>
+</html>

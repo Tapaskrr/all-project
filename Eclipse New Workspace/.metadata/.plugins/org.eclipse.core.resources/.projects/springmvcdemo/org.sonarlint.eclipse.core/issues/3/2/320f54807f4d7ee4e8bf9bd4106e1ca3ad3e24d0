@@ -1,0 +1,16 @@
+
+¢
+java:S4144'"jUpdate this method so that its implementation is not identical to "secondWayofGettingFormData" on line 31.(å¯ÕÃýÿÿÿÿ8ð¼Ñ´¿0H¦1RMAJORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "name1" 4 times.(Þ×µ³8ð¼Ñ´¿0Hª1RCRITICALZ
+CODE_SMELL
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‰ìÆ‰8ˆ¿©´¿0H¨1RMINORZ
+CODE_SMELL
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "welcome" 4 times.(¾ºê øÿÿÿÿ8ÐÒ›Æ¿0H¡1RCRITICALZ
+CODE_SMELL
+z
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ßÅŠ88°©ûÆ¿0HØ2RMINORZ
+CODE_SMELL

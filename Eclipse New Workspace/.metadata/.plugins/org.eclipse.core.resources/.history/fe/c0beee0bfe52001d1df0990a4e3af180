@@ -1,0 +1,19 @@
+package com.te.checkcheck.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+import lombok.Data;
+
+@Entity
+@Data
+public class MyEntity implements Serializable {
+@Id
+private String empId;
+private String empName;
+private String empEmailId;
+private String empPwd;
+	
+}

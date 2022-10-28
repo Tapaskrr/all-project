@@ -1,0 +1,10 @@
+package com.te.employeemanagesystem.exception;
+
+import com.sun.xml.bind.v2.model.annotation.RuntimeAnnotationReader;
+
+public class MyException extends RuntimeException {
+	MyException(String msg) {
+		super(msg);
+	}
+
+}

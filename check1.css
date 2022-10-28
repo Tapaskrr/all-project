@@ -1,0 +1,46 @@
+#image {
+    background-color: lightblue;
+    height:30px;
+  }
+  nav{
+    border-radius: 50px;
+  }
+  #main{
+    text-align: center;
+  }
+ header
+ {
+    text-align: center;
+ }
+ #company
+ {
+    font-size: 20px;
+    border: 1px solid black;
+  position: relative;
+  top: -10px;
+ }
+ nav{
+    background-color: lightblue;
+    padding: 10px;
+    /* margin: 50px; */
+    /* text-align: center; */
+ }
+  a {
+    color: navy;
+    margin-left: 200px;
+  }
+  #one{
+    display: flex;
+  }
+  .image1{
+    height: 100px;
+  }
+  #two{
+
+  }
+  main1{
+
+  }
+  main2{
+    
+  }

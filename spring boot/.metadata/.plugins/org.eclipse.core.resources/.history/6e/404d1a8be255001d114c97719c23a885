@@ -1,0 +1,7 @@
+package com.te.employeemanagementsystem.services;
+
+import com.te.employeemanagementsystem.entity.Employee;
+
+public interface EmployeeService {
+	public Employee getEmployee(String empId);
+}

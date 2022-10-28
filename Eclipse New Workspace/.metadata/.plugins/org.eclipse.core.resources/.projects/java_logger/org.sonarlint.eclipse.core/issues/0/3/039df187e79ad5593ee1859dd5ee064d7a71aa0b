@@ -1,0 +1,10 @@
+
+}
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ÿÔŞùüÿÿÿÿ8»¬¦¾0HçRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¸™ú«üÿÿÿÿ8ôî¯§¾0HíRMAJORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.security.AllPermission'.(Åİ÷½ùÿÿÿÿ8ôî¯§¾0HîRMINORZ
+CODE_SMELL

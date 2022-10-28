@@ -1,0 +1,17 @@
+
+p
+java:S2583"DChange this condition so that it does not always evaluate to "false"(è”³¿8ˆ®‰õ¾0HÙRMAJORZBUG
+n
+java:S1854"6Remove this useless assignment to local variable "v2".(ñ¢Ý¯úÿÿÿÿ8ˆ®‰õ¾0HÚRMAJORZ
+CODE_SMELL
+i
+java:S1854	"6Remove this useless assignment to local variable "v1".(•ß¥ 8ˆ®‰õ¾0HÛRMAJORZ
+CODE_SMELL
+Z
+java:S1481	"'Remove this unused "v1" local variable.(•ß¥ 8ˆ®‰õ¾0HÜRMINORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "v2" local variable.(ñ¢Ý¯úÿÿÿÿ8ˆ®‰õ¾0HÞRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàýÿÿÿÿ8ˆ®‰õ¾0HàRMAJORZ
+CODE_SMELL

@@ -1,0 +1,31 @@
+package com.te.javabasic.abstraction;
+
+import java.util.Scanner;
+
+public class Run {
+
+	static void display(Car car) {
+		System.out.println(car.brake());
+		System.out.println(car.accelaration());
+		System.out.println(car.gear());
+//		System.out.println("ddd");
+	}
+
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+//
+//		String carName = scanner.next();
+//
+		
+		
+		String i=scanner.next();
+		Object a=i;
+		Audi car=(Audi)a;
+		Run.display(car);
+
+//		System.out.println();	
+
+	}
+
+}

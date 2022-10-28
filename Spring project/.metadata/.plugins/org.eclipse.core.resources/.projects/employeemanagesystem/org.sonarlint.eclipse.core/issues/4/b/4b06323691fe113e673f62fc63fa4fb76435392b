@@ -1,0 +1,8 @@
+
+•
+java:S1488`"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(€òì»8è—‡—Á0Hž	RMINORZ
+CODE_SMELL
+m
+java:S1128
+":Remove this unused import 'javax.transaction.Transaction'.(ãòñ®8ø·„šÁ0HÕRMINORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+table{
+    margin: auto;
+    height:250px;
+    width:500px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+#address{
+    height:150px;
+    width:500px;
+}
+div{
+    margin-left: 500px;
+}

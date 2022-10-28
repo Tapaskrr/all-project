@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 25 15:42:25 IST 2022
+org.eclipse.jst.jee.server\:springempmanagesystem=C\:\\tools\\apache-tomcat-9.0.68\\wtpwebapps\\springempmanagesystem
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\tapas\ paul\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\tools\\apache-tomcat-9.0.68\\wtpwebapps\\springempmanagesystem\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar

@@ -1,0 +1,9 @@
+
+l
+java:S1128"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8õÊ€ƒ¿0Hï;RMINORZ
+CODE_SMELL
+k
+java:S1128"@Remove this unused import 'org.hibernate.annotations.ManyToAny'.(äÄè,Hñ;RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(òùª¡ÿÿÿÿÿ8âŠ‹ƒ¿0Hó;RMAJORZ
+CODE_SMELL

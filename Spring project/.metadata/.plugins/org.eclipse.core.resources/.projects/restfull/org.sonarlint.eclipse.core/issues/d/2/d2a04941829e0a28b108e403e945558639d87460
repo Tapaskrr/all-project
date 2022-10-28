@@ -1,0 +1,65 @@
+
+s	java:S125""<This block of commented-out lines of code should be removed.(ωή®²ψÿÿÿÿ8ωΧ»Α0HοRMAJORZ
+CODE_SMELL
+}
+java:S1192B"GDefine a constant instead of duplicating this literal "errmsg" 4 times.(‚±½£8ƒίςΑ0H±RCRITICALZ
+CODE_SMELL
+o
+java:S2441<">Make "Employee" serializable or don't store it in the session.(ΜªΔ…ϊÿÿÿÿ8ƒίςΑ0HΩRMAJORZBUG
+|
+java:S1192)"FDefine a constant instead of duplicating this literal "login" 6 times.(Νύ‡Η8ƒίςΑ0HΉRCRITICALZ
+CODE_SMELL
+l	java:S106…"9Replace this use of System.out or System.err by a logger.(Ό΅¨ς8ƒίςΑ0HΰRMAJORZ
+CODE_SMELL
+y
+java:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(—ύΒ8ƒίςΑ0HΫRCRITICALZVULNERABILITY
+y
+java:S46847"@Replace this persistent entity with a simple POJO or DTO object.(χΊα›8ƒίςΑ0HέRCRITICALZVULNERABILITY
+~
+java:S4684j"@Replace this persistent entity with a simple POJO or DTO object.(Πν―ψÿÿÿÿ8ƒίςΑ0HΨRCRITICALZVULNERABILITY
+z
+java:S4684–"@Replace this persistent entity with a simple POJO or DTO object.(®ωθ―8¶ΣτΎΑ0HRCRITICALZVULNERABILITY
+g
+java:S1128"4Remove this unused import 'org.jboss.logging.Param'.(ξ±Α®8θ•ΎΑ0HΝRMINORZ
+CODE_SMELL
+s
+java:S2259"FA "NullPointerException" could be thrown; "employee" is nullable here.(οΡΞ8ƒίςΑ0HΥRMAJORZBUG
+z
+java:S4684‚"@Replace this persistent entity with a simple POJO or DTO object.(¬§™΄8ƒίςΑ0HήRCRITICALZVULNERABILITY
+~
+java:S1128
+"FRemove this unused import 'org.springframework.stereotype.Controller'.(ψ—Φωÿÿÿÿ8θ•ΎΑ0HΟRMINORZ
+CODE_SMELL
+
+java:S1192k"FDefine a constant instead of duplicating this literal "empId" 3 times.(νΪΆ’ωÿÿÿÿ8ƒίςΑ0H©RCRITICALZ
+CODE_SMELL
+‹
+java:S1192B"UDefine a constant instead of duplicating this literal "something went wrong" 3 times.(‚±½£8ƒίςΑ0HΒRCRITICALZ
+CODE_SMELL
+b
+java:S5411R"*Use the primitive boolean expression here.(ΨΫÿϊÿÿÿÿ8ƒίςΑ0HΖRMINORZ
+CODE_SMELL
+}
+java:S1192X"GDefine a constant instead of duplicating this literal "failed" 3 times.(¨ΥΡ8θ•ΎΑ0HΙRCRITICALZ
+CODE_SMELL
+^
+java:S5411‰"*Use the primitive boolean expression here.(²—τ8ƒίςΑ0HΙRMINORZ
+CODE_SMELL
+^
+java:S5411¤"*Use the primitive boolean expression here.(ε§ιÿ8ά‘ΎΑ0H£RMINORZ
+CODE_SMELL
+
+java:S4684ƒ"@Replace this persistent entity with a simple POJO or DTO object.(‰„Τόÿÿÿÿ8ƒίςΑ0HβRCRITICALZVULNERABILITY
+l	java:S106†"9Replace this use of System.out or System.err by a logger.(£ΖΟΑ8ƒίςΑ0HαRMAJORZ
+CODE_SMELL
+r
+java:S2259P"FA "NullPointerException" could be thrown; "employee" is nullable here.(°Ω²µ8ƒίςΑ0HΟRMAJORZBUG
+s	java:S125="<This block of commented-out lines of code should be removed.(ήψνΛϊÿÿÿÿ8ƒίςΑ0HΪRMAJORZ
+CODE_SMELL
+q
+java:S22598"FA "NullPointerException" could be thrown; "employee" is nullable here.(τ―Ζ8ƒίςΑ0HÒRMAJORZBUG
+~
+java:S4684t"@Replace this persistent entity with a simple POJO or DTO object.(°ρ€ÿÿÿÿÿ8ƒίςΑ0HάRCRITICALZVULNERABILITY
+
+java:S1192G"SDefine a constant instead of duplicating this literal "plz type something" 3 times.(ψ¶¨¤ψÿÿÿÿ8ƒίςΑ0H­RCRITICALZ
+CODE_SMELL

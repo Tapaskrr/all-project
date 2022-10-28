@@ -1,0 +1,25 @@
+package com.te.employeemanagementsystem.services;
+
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.te.employeemanagementsystem.dao.EmployeeDao;
+import com.te.employeemanagementsystem.entity.Employee;
+
+
+@Service
+public class EmployeeServiceImpl implements EmployeeService {
+
+	@Autowired
+	private EmployeeDao employeeDao;
+	
+	@Override
+	public Employee getEmployee(String empId) {
+		
+		
+		return employeeDao.findByEmpId(empId);
+	}
+	
+}

@@ -1,0 +1,12 @@
+package com.te.checkcheck.services;
+
+import com.te.checkcheck.entity.MyEntity;
+
+public class MySubServices implements MyServices {
+
+	@Override
+	public Boolean myServices(MyEntity myEntity) {
+		return null;
+	}
+
+}

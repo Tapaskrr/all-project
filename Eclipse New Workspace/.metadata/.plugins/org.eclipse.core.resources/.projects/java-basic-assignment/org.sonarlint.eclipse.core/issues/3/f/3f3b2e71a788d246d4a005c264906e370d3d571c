@@ -1,0 +1,85 @@
+
+d	java:S106e"9Replace this use of System.out or System.err by a logger.(Ü‚ä¶H²RMAJORZ
+CODE_SMELL
+i	java:S106W"9Replace this use of System.out or System.err by a logger.(­¸¤ÊúÿÿÿÿH³RMAJORZ
+CODE_SMELL
+[
+java:S3740G"/Provide the parametrized type for this generic.(‘‹ÍH´RMAJORZ
+CODE_SMELL
+i	java:S106Z"9Replace this use of System.out or System.err by a logger.(»Ä­ışÿÿÿÿHµRMAJORZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(¼Ô’èH¶RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(äØìÇH·RMAJORZ
+CODE_SMELL
+d	java:S106A"9Replace this use of System.out or System.err by a logger.(İ¦ÎÀH¸RMAJORZ
+CODE_SMELL
+d	java:S106u"9Replace this use of System.out or System.err by a logger.(ÍÓ†H¹RMAJORZ
+CODE_SMELL
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘HºRCRITICALZ
+CODE_SMELL
+[
+java:S3740-"/Provide the parametrized type for this generic.(Á‘ÊHÉRMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+i	java:S106]"9Replace this use of System.out or System.err by a logger.(Ÿ­•ìûÿÿÿÿHËRMAJORZ
+CODE_SMELL
+G
+java:S3626s"Remove this redundant jump.(ÉŠ©ƒHÌRMINORZ
+CODE_SMELL
+d	java:S106Q"9Replace this use of System.out or System.err by a logger.(Æ·‹HÍRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(÷çïøÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+d	java:S106m"9Replace this use of System.out or System.err by a logger.(Ü‚ä¶HÏRMAJORZ
+CODE_SMELL
+`
+java:S3740?"/Provide the parametrized type for this generic.(ˆ¾º°ıÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+d	java:S106$"9Replace this use of System.out or System.err by a logger.(´£ïçHÑRMAJORZ
+CODE_SMELL
+[
+java:S3740-"/Provide the parametrized type for this generic.(Á‘ÊHÒRMAJORZ
+CODE_SMELL
+`
+java:S3740O"/Provide the parametrized type for this generic.(ÁùÙ¤úÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(‚Ìƒ¾üÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+d	java:S106I"9Replace this use of System.out or System.err by a logger.(˜Œ¦ÅHÕRMAJORZ
+CODE_SMELL
+
+java:S1602/"SRemove useless curly braces around statement and then remove useless return keyword(¿ ˜ğHÖRMINORZ
+CODE_SMELL
+d	java:S106n"9Replace this use of System.out or System.err by a logger.(¬ÃÊ­H×RMAJORZ
+CODE_SMELL
+Y
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îBHØRMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„³ÜÃHÚRMINORZ
+CODE_SMELL
+G
+java:S3626k"Remove this redundant jump.(ÉŠ©ƒHÜRMINORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(òñ³ĞHİRMAJORZ
+CODE_SMELL
+d	java:S106'"9Replace this use of System.out or System.err by a logger.(Äí§‚HŞRMAJORZ
+CODE_SMELL
+d	java:S106f"9Replace this use of System.out or System.err by a logger.(¬ÃÊ­HßRMAJORZ
+CODE_SMELL
+`
+java:S3740V"/Provide the parametrized type for this generic.(ÿÉ€øÿÿÿÿHàRMAJORZ
+CODE_SMELL
+‰	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿHáRMINORZ
+CODE_SMELL
+[
+java:S37407"/Provide the parametrized type for this generic.(ŞßŠÇHèRMAJORZ
+CODE_SMELL
+h
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿHéRMINORZ
+CODE_SMELL
+g	java:S125 "<This block of commented-out lines of code should be removed.(ÌÛ¥ïHëRMAJORZ
+CODE_SMELL

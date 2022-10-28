@@ -1,0 +1,9 @@
+
+‚
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8”ÕÛ£¿0Hõ,RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âìöµøÿÿÿÿ8ê·¢¿0H»,RMAJORZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8¦œü£¿0H°-RMINORZ
+CODE_SMELL

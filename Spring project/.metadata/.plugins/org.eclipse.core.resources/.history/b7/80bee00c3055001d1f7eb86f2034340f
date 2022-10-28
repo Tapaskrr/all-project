@@ -1,0 +1,11 @@
+package com.te.restfull.dto;
+
+import lombok.Data;
+
+@Data
+public class MyPostman {
+private String msg;
+private String statusCode;
+private String describe;
+private Object object;
+}

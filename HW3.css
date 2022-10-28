@@ -1,0 +1,15 @@
+table,th,td{
+    border: 2px solid black;
+    margin: auto;
+    border-collapse: collapse;
+}
+#LUNCH,#LUNCH1{
+    font-size: 25px;
+}
+#LUNCH1{
+    font: bold ;
+}
+table{
+    height: 300px;
+    width: 300px;
+}

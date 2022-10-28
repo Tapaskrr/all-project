@@ -1,0 +1,68 @@
+package com.te.employeemanagesystem.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.te.employeemanagesystem.entity.Employee;
+import com.te.employeemanagesystem.services.MyService;
+
+@Controller
+public class MyController {
+
+	@Autowired
+	private MyService myService;
+
+	@GetMapping("/login")
+	public String login() {
+		return "login";
+	}
+
+	@GetMapping("/register")
+	public String register() {
+		return "register";
+	}
+
+	@GetMapping("/click")
+	public String register1() {
+		return "click";
+	}
+
+	@PostMapping("/login")
+	public String myLogin(Employee employee,Model map) {
+		if (employee != null && !employee.getEmpId().isEmpty() ||  employee.getEmpPwd().isEmpty()) {
+			if(myService.create(employee)) {
+				map.addAttribute("msg","registration successfull");
+			}else {
+				map.addAttribute("errmsg", "something went wrong");
+			}
+			
+			
+		}else {
+			map.addAttribute("errmsg","plz type something");
+		}
+
+		return "welcome";
+	}
+
+	@PostMapping("/register")
+	public String myRegister(Employee employee,Model map) {
+		if (employee != null && !employee.getEmpId().isEmpty() || !employee.getEmpMail().isEmpty()
+				|| !employee.getEmpName().isEmpty() && employee.getEmpPwd().isEmpty()) {
+			if(myService.create(employee)) {
+				map.addAttribute("msg","registration successfull");
+			}else {
+				map.addAttribute("errmsg", "something went wrong");
+			}
+			
+			
+		}else {
+			map.addAttribute("errmsg","plz type something");
+		}
+
+		return "register";
+	}
+
+}
